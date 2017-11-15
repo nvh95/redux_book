@@ -1,8 +1,8 @@
 export default function() {
   return [
-    {title: 'Con duong hoi giao'},
-    {title: 'Toi la mot con lua'},
-    {title: 'Toi di code dao'},
-    {title: 'Neu biet tram nam la huu han'},
+    {title: 'Con đường hồi giáo'},
+    {title: 'Tôi là một con lừa'},
+    {title: 'Tôi đi code dạo'},
+    {title: 'Nếu biết trăm năm là hữu hạn'},
   ]
 }
